@@ -1,0 +1,1085 @@
+1
+00:00:00,013 --> 00:00:08,035
+Hey, Vsauce. Michael here. About 6 percent of
+everything you say and read and write is
+
+2
+00:00:08,035 --> 00:00:09,097
+the
+
+3
+00:00:12,002 --> 00:00:18,024
+"the" - is the most used word in the
+English language. About one out of every
+
+4
+00:00:18,025 --> 00:00:24,108
+16 words we encounter on a daily basis
+is "the." The top 20 most common English
+
+5
+00:00:25,008 --> 00:00:32,021
+words in order are "the," "of," "and," "to," "a," "in," "is," "I," "that," "it," "for," "you,"
+
+6
+00:00:32,021 --> 00:00:39,046
+"was," "with," "on," "as," "have," "but," "be," "they."
+That's a fun fact. A piece of trivia but it's
+
+7
+00:00:39,046 --> 00:00:44,097
+also more. You see, whether the most
+commonly used words are ranked across an
+
+8
+00:00:44,097 --> 00:00:50,153
+entire language, or in just one book or
+article, almost every time a bizarre
+
+9
+00:00:51,053 --> 00:00:57,088
+pattern emerges. The second most used
+word will appear about half as often as
+
+10
+00:00:57,088 --> 00:01:03,767
+the most used. The third one third as
+often. The fourth one fourth as often. The
+
+11
+00:01:04,559 --> 00:01:10,640
+fifth one fifth as often. The sixth one sixth
+as often, and so on all the way down.
+
+12
+00:01:10,064 --> 00:01:16,097
+Seriously. For some reason, the amount of
+times a word is used is just
+
+13
+00:01:16,097 --> 00:01:22,128
+proportional to one over its rank. Word
+frequency and ranking on a log log graph
+
+14
+00:01:23,028 --> 00:01:30,657
+follow a nice straight line. A power-law.
+This phenomenon is called Zipf's Law and
+
+15
+00:01:30,909 --> 00:01:37,914
+it doesn't only apply to English. It also
+applies to other languages, like, well,
+
+16
+00:01:38,409 --> 00:01:39,380
+all of them.
+
+17
+00:01:39,039 --> 00:01:42,138
+Even ancient languages we haven't been
+able to translate yet.
+
+18
+00:01:43,038 --> 00:01:49,135
+And here's the thing. We have no idea why.
+It's surprising that something as
+
+19
+00:01:50,035 --> 00:01:56,039
+complex as reality should be conveyed by
+something as creative as language in
+
+20
+00:01:56,039 --> 00:02:03,056
+such a predictable way. How predictable?
+Well, watch this. According to WordCount.org,
+
+21
+00:02:03,056 --> 00:02:08,063
+which ranks words as found in the
+British National Corpus, "sauce" is the
+
+22
+00:02:08,063 --> 00:02:15,095
+5,555th most common English word.
+Now, here is a list of how many times
+
+23
+00:02:15,095 --> 00:02:20,136
+every word on Wikipedia and in the
+entire Gutenberg Corpus of tens of
+
+24
+00:02:21,036 --> 00:02:27,094
+thousands of public domain books shows
+up. The most used word, 'the,' shows up about
+
+25
+00:02:27,094 --> 00:02:33,147
+181 million times. Knowing these two
+things, we can estimate that the word
+
+26
+00:02:34,047 --> 00:02:39,054
+"sauce" should appear about thirty
+thousand times on Wikipedia and
+
+27
+00:02:39,054 --> 00:02:44,122
+Gutenberg combined.
+And it pretty much does.
+
+28
+00:02:45,022 --> 00:02:50,110
+What gives? The world is chaotic. Things are
+distributed in myriad of ways, not just
+
+29
+00:02:51,001 --> 00:02:53,100
+power laws. And language is personal,
+
+30
+00:02:54,009 --> 00:03:00,052
+intentional, idiosyncratic. What about the
+world and ourselves could cause such
+
+31
+00:03:00,052 --> 00:03:07,114
+complex activities and behaviors to
+follow such a basic rule? We literally
+
+32
+00:03:08,014 --> 00:03:13,020
+don't know. More than a century of
+research has yet to close the case.
+
+33
+00:03:13,074 --> 00:03:19,102
+Moreover, Zipf's law doesn't just
+mysteriously describe word use. It's
+
+34
+00:03:20,002 --> 00:03:25,081
+also found in city populations, solar
+flare intensities, protein sequences and
+
+35
+00:03:25,081 --> 00:03:29,146
+immune receptors, the amount of traffic
+websites get, earthquake magnitudes, the
+
+36
+00:03:30,047 --> 00:03:34,098
+number of times academic papers are
+cited, last names, the firing patterns of
+
+37
+00:03:34,098 --> 00:03:37,172
+neural networks, ingredients used in
+cookbooks, the number of phone calls
+
+38
+00:03:38,072 --> 00:03:41,136
+people received, the diameter of Moon
+craters, the number of people that die
+
+39
+00:03:42,036 --> 00:03:47,062
+in wars, the popularity of opening chess
+moves, even the rate at which we forget.
+
+40
+00:03:47,062 --> 00:03:54,078
+There are plenty of theories about why
+language is 'zipf-y,' but no firm conclusions
+
+41
+00:03:54,078 --> 00:03:59,122
+and this video doesn't contain a
+definite explanation either. Sorry, I know
+
+42
+00:04:00,022 --> 00:04:06,028
+that's a bummer, since we appear to like
+knowing more than mystery. But that said,
+
+43
+00:04:06,028 --> 00:04:13,097
+we also ask more than we answer. So
+let's dive into Zipf's ramifications, some
+
+44
+00:04:13,097 --> 00:04:17,144
+related patterns, some possible
+explanations and the depth of the
+
+45
+00:04:18,044 --> 00:04:22,132
+mystery itself.
+Zipf's law was popularized by George Zipf,
+
+46
+00:04:23,032 --> 00:04:29,066
+a linguist at Harvard University. It is a
+discrete form of the continuous Pareto
+
+47
+00:04:29,066 --> 00:04:34,107
+distribution from which we get the
+Pareto Principle. Because so many
+
+48
+00:04:35,007 --> 00:04:40,007
+real-world processes behave this way,
+the Pareto Principle tells us that, as a rule
+
+49
+00:04:40,007 --> 00:04:47,666
+of thumb, it's worth assuming that 20% of
+the causes are responsible for 80% of
+
+50
+00:04:47,729 --> 00:04:49,020
+the outcome,
+
+51
+00:04:49,002 --> 00:04:54,331
+like in language, where the most
+frequently used 18 percent of words
+
+52
+00:04:54,349 --> 00:05:02,060
+account for over 80% of word occurrences.
+In 1896, Vilfredo Pareto showed that
+
+53
+00:05:02,006 --> 00:05:08,030
+approximately 80% of the land in Italy
+was owned by just twenty percent of the
+
+54
+00:05:08,003 --> 00:05:13,042
+population. It is said that he later
+noticed in his garden 20 percent of his
+
+55
+00:05:13,069 --> 00:05:19,144
+pea pods contained eighty percent of the
+peas. He and other researchers looked at
+
+56
+00:05:20,044 --> 00:05:26,049
+other datasets and found that this 80-20
+imbalance comes up a lot in the world.
+
+57
+00:05:26,094 --> 00:05:34,383
+The richest 20% of humans have 82.7% of
+the world's income. In the US, 20% of
+
+58
+00:05:35,229 --> 00:05:41,050
+patients use eighty percent of health
+care resources. In 2002, Microsoft
+
+59
+00:05:41,005 --> 00:05:46,061
+reported that 80% of the errors and
+crashes in Windows and Office are caused
+
+60
+00:05:46,061 --> 00:05:51,110
+by 20% of the bugs detected. A common
+rule of thumb in the business world
+
+61
+00:05:51,659 --> 00:05:56,735
+states that 20% of your customers are
+responsible for 80% of your profits and
+
+62
+00:05:57,419 --> 00:06:02,110
+eighty percent of the complaints you
+receive will come from 20% of your
+
+63
+00:06:02,011 --> 00:06:08,540
+customers. A book titled "The 80/20 Principle"
+even says that in a home or
+
+64
+00:06:08,639 --> 00:06:09,653
+office,
+
+65
+00:06:09,779 --> 00:06:16,793
+20% of the carpet receives 80 percent of
+the wear. Oh, and as Woody Allen famously
+
+66
+00:06:16,919 --> 00:06:24,018
+said, "eighty percent of success is just
+showing up." The Pareto Principle is
+
+67
+00:06:24,909 --> 00:06:26,988
+everywhere, which is good.
+
+68
+00:06:27,699 --> 00:06:32,680
+By focusing on just 20 percent of what's
+wrong, you can often expect to solve
+
+69
+00:06:32,068 --> 00:06:38,084
+eighty percent of the problems. A variety
+of different unrelated factors cause
+
+70
+00:06:38,084 --> 00:06:42,883
+this to be true from case to case, but if
+we can get to the bottom of what causes
+
+71
+00:06:43,639 --> 00:06:44,930
+some of them,
+
+72
+00:06:44,093 --> 00:06:48,128
+maybe we'll find that one or more of
+those mechanisms is responsible for
+
+73
+00:06:49,028 --> 00:06:55,093
+Zipf's law in language. George Zipf
+himself thought languages' interesting rank
+
+74
+00:06:55,093 --> 00:07:00,142
+frequency distribution was a consequence
+of the Principle of Least Effort. The
+
+75
+00:07:00,979 --> 00:07:07,410
+tendency for life and things to follow
+the path of least resistance. Zipf believed
+
+76
+00:07:07,041 --> 00:07:12,084
+it drove much of human behavior and
+hypothesized that as language developed
+
+77
+00:07:12,084 --> 00:07:17,128
+in our species, speakers naturally
+preferred drawing from as few words as
+
+78
+00:07:18,028 --> 00:07:23,037
+possible to get their thoughts out there.
+It was easier. But in order to understand
+
+79
+00:07:23,037 --> 00:07:25,266
+what was being said,
+
+80
+00:07:25,599 --> 00:07:30,990
+listeners preferred larger vocabularies
+that gave more specificity, so that they
+
+81
+00:07:30,099 --> 00:07:35,748
+had to do less work. The compromise
+between listening and speaking, Zipf felt,
+
+82
+00:07:36,639 --> 00:07:43,310
+led to the current state of language.
+A few words are used often and many many
+
+83
+00:07:43,031 --> 00:07:46,850
+many words are used rarely.
+
+84
+00:07:47,129 --> 00:07:51,220
+Recent papers have suggested that having
+a few short, often used, predictable words
+
+85
+00:07:52,039 --> 00:07:57,110
+helps dissipate information load density
+on listeners, spacing out important vocab
+
+86
+00:07:57,749 --> 00:08:02,798
+so that the information rate is more
+constant. This makes sense and much has
+
+87
+00:08:03,239 --> 00:08:07,830
+been learned by applying the least
+effort principle to other behaviors, but
+
+88
+00:08:07,083 --> 00:08:12,542
+later researchers argued that for
+language, the explanation was even more
+
+89
+00:08:13,289 --> 00:08:18,363
+simple. Just a few years after Zipf's
+seminal paper, Benoit Mandelbrot showed
+
+90
+00:08:19,029 --> 00:08:24,068
+that there may be nothing mysterious
+about Zipf's law at all, because even if you
+
+91
+00:08:24,419 --> 00:08:29,444
+just randomly type on a keyboard you
+will produce words distributed according
+
+92
+00:08:29,669 --> 00:08:35,630
+to Zipf's law. It's a pretty cool point and
+this is why it happens. There are
+
+93
+00:08:35,063 --> 00:08:41,202
+exponentially more different long words
+than short words. For instance, the English
+
+94
+00:08:41,769 --> 00:08:48,970
+alphabet can be used to make 26 one
+letter words, but 26 squared 2 letter
+
+95
+00:08:48,097 --> 00:08:54,836
+words. Also, in random typing, whenever the
+space bar is pressed a word terminates.
+
+96
+00:08:55,709 --> 00:09:00,732
+Since there's always a certain chance that
+the space bar will be pressed, longer
+
+97
+00:09:00,939 --> 00:09:02,952
+stretches of time before it happens
+
+98
+00:09:03,069 --> 00:09:08,160
+are exponentially less likely than
+shorter ones. The combination of these
+
+99
+00:09:08,016 --> 00:09:14,072
+exponentials is pretty 'Zipf-y.'
+For example, if all 26 letters and the
+
+100
+00:09:14,072 --> 00:09:19,113
+spacebar are equally likely to be typed,
+after a letter is typed and a word has
+
+101
+00:09:20,013 --> 00:09:25,272
+begun, the probability that the next
+input will be a space, thus creating a
+
+102
+00:09:25,389 --> 00:09:31,408
+one letter word, is just one in 27.
+And sure enough, if you randomly generate
+
+103
+00:09:31,579 --> 00:09:39,240
+characters or hire a proverbial typing
+monkey, about one out of every 27 or 3.7
+
+104
+00:09:39,024 --> 00:09:44,553
+percent of the stuff between spaces,
+will be single letters. Two letter words
+
+105
+00:09:44,769 --> 00:09:50,920
+appear when after beginning a word any
+character but the space bar is hit - a 26
+
+106
+00:09:50,092 --> 00:09:53,099
+in 27 chance and then the space bar.
+
+107
+00:09:54,062 --> 00:09:59,098
+A three-letter word is the probability
+of a letter, another letter and then a
+
+108
+00:09:59,098 --> 00:10:03,135
+space. If we divide by the number of
+unique words of each length there can be,
+
+109
+00:10:04,035 --> 00:10:08,041
+we get the frequency of occurrence
+expected for any particular word given
+
+110
+00:10:08,095 --> 00:10:14,095
+its length. For example, the letter V will
+make up about 0.142 percent of
+
+111
+00:10:14,095 --> 00:10:23,144
+random typing. The word "Vsauce"
+0.0000000993 percent. Longer words are
+
+112
+00:10:24,044 --> 00:10:29,053
+less likely, but watch this. Let's spread
+these frequencies out according to the
+
+113
+00:10:29,053 --> 00:10:35,057
+ranks they'd take up on a most often
+used list. There are 26 possible one
+
+114
+00:10:35,057 --> 00:10:40,064
+letter words, so each of the top 26
+ranked words are expected to occur
+
+115
+00:10:40,064 --> 00:10:45,067
+about this often. The next 676 ranks will be taken up
+
+116
+00:10:45,094 --> 00:10:49,170
+by two letter words that show up about
+this often. If we extend each frequency
+
+117
+00:10:50,007 --> 00:10:56,035
+according to how many members it has,
+we get Zipf. Subsequent researchers have
+
+118
+00:10:56,098 --> 00:11:01,116
+detailed how changing up the initial
+conditions can smooth the steps out. Our
+
+119
+00:11:02,016 --> 00:11:08,018
+mysterious distribution has been created
+out of nothing but the inevitabilities
+
+120
+00:11:08,018 --> 00:11:09,092
+of math.
+
+121
+00:11:09,092 --> 00:11:15,100
+So maybe there is no mystery. Maybe words
+are just the result of humans randomly
+
+122
+00:11:16,000 --> 00:11:21,339
+segmenting the observable world and the
+mental world into labels and Zipf's law
+
+123
+00:11:21,339 --> 00:11:26,343
+describes what naturally happens when
+you do that. Case closed. and as always
+
+124
+00:11:27,048 --> 00:11:27,124
+And as always,
+
+125
+00:11:28,025 --> 00:11:31,056
+thanks for... wait a minute!
+
+126
+00:11:31,056 --> 00:11:35,142
+Actual language is very different from
+random typing. Communication is
+
+127
+00:11:36,042 --> 00:11:40,104
+deterministic to a certain extent.
+Utterances and topics arrive based on
+
+128
+00:11:41,004 --> 00:11:46,103
+what was said before. And the vocabulary
+we have to work with certainly isn't the
+
+129
+00:11:46,139 --> 00:11:51,143
+result of purely random naming.
+For example, the monkey typing model can't
+
+130
+00:11:51,054 --> 00:11:55,063
+explain why even the names of the
+elements, the planets and the days of the
+
+131
+00:11:56,044 --> 00:12:01,050
+week are used in language according to
+Zipf's law. Sets like these are constrained
+
+132
+00:12:02,005 --> 00:12:06,041
+by the natural world and they're not the
+result of us randomly segmenting the
+
+133
+00:12:06,041 --> 00:12:11,900
+world into labels. Furthermore, when given
+a list of novel words, words they've
+
+134
+00:12:12,269 --> 00:12:16,670
+never heard or used before, like when
+prompted to write a story about alien
+
+135
+00:12:16,067 --> 00:12:21,093
+creatures with strange names, people will
+naturally tend to use the name of one
+
+136
+00:12:21,093 --> 00:12:28,175
+alien twice as often as another, three
+times as often as another... Zipf's law appears to
+
+137
+00:12:29,075 --> 00:12:34,083
+be built into our brains. Perhaps there
+is something about the way thoughts and
+
+138
+00:12:35,055 --> 00:12:40,034
+topics of discussion ebb and flow that
+contributes to Zipf's law.
+
+139
+00:12:40,529 --> 00:12:44,560
+Another way 'Zipf-ian' distributions
+occur is via processes that change
+
+140
+00:12:44,839 --> 00:12:49,300
+according to how they've previously
+operated. These are called preferential
+
+141
+00:12:49,003 --> 00:12:54,912
+attachment processes.
+They occur when something - money, views,
+
+142
+00:12:55,209 --> 00:12:59,990
+attention, variation, friends, jobs,
+anything really is given out according
+
+143
+00:12:59,099 --> 00:13:04,858
+to how much is already possessed.
+To go back to the carpet example, if most
+
+144
+00:13:05,749 --> 00:13:10,805
+people walk from the living room to the
+kitchen across a certain path, furniture
+
+145
+00:13:11,309 --> 00:13:17,990
+will be placed elsewhere, making that
+path even more popular. The more views
+
+146
+00:13:17,099 --> 00:13:21,147
+a video or image or post has,
+the more likely it is to get recommended
+
+147
+00:13:22,047 --> 00:13:27,786
+automatically or make the news for
+having so many views, both of which give
+
+148
+00:13:28,209 --> 00:13:29,213
+it more views.
+
+149
+00:13:29,249 --> 00:13:34,600
+It's like a snowball rolling down a
+snowy hill. The more snow it accumulates, the
+
+150
+00:13:34,006 --> 00:13:38,355
+bigger its surface area becomes for
+collecting more and the faster it grows.
+
+151
+00:13:38,949 --> 00:13:43,790
+There doesn't have to be a deliberate
+choice driving a preferential attachment
+
+152
+00:13:43,079 --> 00:13:49,938
+process. It can happen naturally. Try this.
+Take a bunch of paper clips and grab any
+
+153
+00:13:50,649 --> 00:13:52,170
+two at random.
+
+154
+00:13:52,017 --> 00:13:56,072
+Link them together and then throw them
+back in the pile. Now, repeat over and
+
+155
+00:13:56,072 --> 00:14:01,075
+over again. If you grab paper clips that
+are already part of a chain, link 'em anyway.
+
+156
+00:14:02,002 --> 00:14:06,010
+More often than not after a while
+you will have a distribution that looks
+
+157
+00:14:06,011 --> 00:14:11,088
+'Zipf-ian.' A small number of chains
+contain a disproportionate amount of the
+
+158
+00:14:11,088 --> 00:14:15,180
+total paperclip count. This is simply
+because the longer a chain gets, the
+
+159
+00:14:16,008 --> 00:14:19,057
+greater proportion of the whole it
+contains, which gives it a better chance
+
+160
+00:14:20,029 --> 00:14:25,038
+of being picked up in the future and
+consequently made even longer. The rich
+
+161
+00:14:26,019 --> 00:14:33,042
+get richer, the big get bigger,
+the popular get popular-er. It's just math.
+
+162
+00:14:33,042 --> 00:14:38,138
+Perhaps languages' Zipf mystery is, if not
+caused by it, at least strengthened by
+
+163
+00:14:39,389 --> 00:14:45,900
+preferential attachment. Once a word is
+used, it's more likely to be used again soon.
+
+164
+00:14:45,009 --> 00:14:48,061
+Critical points may play a role as well.
+
+165
+00:14:49,042 --> 00:14:54,056
+Writing and conversation often stick to a
+topic until a critical point is reached
+
+166
+00:14:54,056 --> 00:14:58,142
+and the subject is changed and
+the vocabulary shifts. Processes like these
+
+167
+00:14:59,042 --> 00:15:04,106
+are known to result in power laws. So, in
+the end, it seems tenable that all these
+
+168
+00:15:05,006 --> 00:15:11,008
+mechanisms might collude to make Zipf's
+law the most natural way for language to
+
+169
+00:15:11,026 --> 00:15:16,097
+be. Perhaps some of our vocabulary and
+grammar was developed randomly, according
+
+170
+00:15:16,097 --> 00:15:21,156
+to Mandelbrot's theory. And the natural
+way conversation and discussion follow
+
+171
+00:15:22,056 --> 00:15:26,445
+preferential attachment and criticality,
+coupled with the principle of least
+
+172
+00:15:26,949 --> 00:15:31,920
+effort when speaking and listening are
+all responsible for the relationship
+
+173
+00:15:31,092 --> 00:15:34,101
+between word rank and frequency.
+
+174
+00:15:35,001 --> 00:15:40,017
+It's a shame that the answer isn't
+simpler, but it's fascinating because of
+
+175
+00:15:40,017 --> 00:15:44,114
+the consequences it has on what
+communication is made of. Roughly
+
+176
+00:15:45,014 --> 00:15:52,021
+speaking, and this is mind blowing, nearly
+half of any book, conversation or article
+
+177
+00:15:52,021 --> 00:15:58,050
+will be nothing but the same 50 to 100
+words. And nearly the other half will be
+
+178
+00:15:58,005 --> 00:16:04,042
+words that appear in that selection only
+once. That's not so surprising when you
+
+179
+00:16:04,087 --> 00:16:10,169
+consider the fact that one word accounts
+for 6 percent of what we say. The top 25
+
+180
+00:16:11,069 --> 00:16:17,130
+most used words make up about a third of
+everything we say and the top 100 about
+
+181
+00:16:18,003 --> 00:16:25,004
+half. Seriously. I mean, whether it's all the
+words in "Wet Hot American Summer," or all
+
+182
+00:16:25,004 --> 00:16:30,006
+the words in Plato's "Complete Works" or
+in the complete works of Edgar Allan Poe
+
+183
+00:16:30,042 --> 00:16:37,047
+or the Bible itself, only about 100 words
+are used for nearly half of everything
+
+184
+00:16:37,092 --> 00:16:47,136
+written or said. In Alice's Adventures in
+Wonderland 44% and in Tom Sawyer 49.8%
+
+185
+00:16:48,036 --> 00:16:54,045
+of the unique words used appear only
+once in the book. A word that is used
+
+186
+00:16:55,026 --> 00:17:01,030
+only once in a given selection of words
+is called a 'hapax legomenon.'
+
+187
+00:17:01,003 --> 00:17:05,085
+Hapax legomena are vitally important to
+understanding languages. If a word has
+
+188
+00:17:06,013 --> 00:17:11,582
+only been found once in the entire known
+collection of an ancient language, it can
+
+189
+00:17:11,699 --> 00:17:17,640
+be very difficult to figure out what it
+means. Now, there is no corpus of
+
+190
+00:17:17,064 --> 00:17:22,155
+everything ever said or written in
+English, but there are very very large
+
+191
+00:17:23,055 --> 00:17:28,124
+collections and it's fun to find hapax legomena in them.
+For instance, and this
+
+192
+00:17:29,024 --> 00:17:34,036
+probably won't be the case after I
+mention it, but the word "quizzaciously"
+
+193
+00:17:34,036 --> 00:17:41,060
+is in the Oxford English Dictionary, but
+appears nowhere on Wikipedia or in the
+
+194
+00:17:41,006 --> 00:17:45,010
+Gutenberg corpus or in the British
+National Corpus or the American National
+
+195
+00:17:46,000 --> 00:17:53,065
+Corpus, but it does appear when searched in
+just one result on Google. Fittingly, in a
+
+196
+00:17:53,065 --> 00:18:01,073
+book titled "ElderSpeak" that lists it
+as a 'rare word.' Quizzaciously, by the way,
+
+197
+00:18:01,073 --> 00:18:06,160
+means "in a mocking manner," as in
+"The paradist rattled off quizzaciously,
+
+198
+00:18:07,061 --> 00:18:12,370
+'Hey, Vsauce. Michael here. But who is Michael
+and how much does here
+
+199
+00:18:12,919 --> 00:18:20,590
+weigh?'" It's a little sad that quizzaciously
+has been used so infrequently. It's a
+
+200
+00:18:20,059 --> 00:18:26,091
+fun word, but that's the way things go in
+a 'Zipf-ian' system. Some things get all the
+
+201
+00:18:26,091 --> 00:18:32,154
+love, some get little. Most of what you
+experience on a day-to-day basis is
+
+202
+00:18:33,054 --> 00:18:39,091
+forgotten, forgettable. The Dictionary of Obscure Sorrows, as it often does, has a
+
+203
+00:18:39,091 --> 00:18:45,097
+word for this - Olēka - the awareness of how
+few days are memorable.
+
+204
+00:18:45,097 --> 00:18:51,099
+I've been alive for almost 11,000 days
+but I couldn't tell you something about
+
+205
+00:18:52,017 --> 00:18:54,078
+each one of them. I mean, not even close.
+
+206
+00:18:54,078 --> 00:18:59,173
+Most of what we do and see and think and
+say and hear and feel is forgotten
+
+207
+00:19:00,073 --> 00:19:06,151
+at a rate quite similar to Zipf's law,
+which makes sense. If a number of factors
+
+208
+00:19:07,051 --> 00:19:11,129
+naturally selected for thinking and
+talking about the world with tools in
+
+209
+00:19:12,029 --> 00:19:16,125
+a 'Zipf-ian' way, it makes sense we'd
+remember it that way too. Some things
+
+210
+00:19:17,025 --> 00:19:24,061
+really well, most things hardly at all.
+But it bums me out sometimes because it
+
+211
+00:19:24,061 --> 00:19:29,084
+means that so much is forgotten,
+even things that at the time you thought you
+
+212
+00:19:29,084 --> 00:19:32,150
+could never forget. My locker number -
+
+213
+00:19:33,005 --> 00:19:37,078
+senior year - its combination, the jokes
+I liked when I saw a comedian on stage,
+
+214
+00:19:38,023 --> 00:19:44,115
+the names of people I saw every day 10
+years ago. So many memories are gone. When
+
+215
+00:19:45,015 --> 00:19:48,087
+I look at all the books I've read and
+realize that I can't remember every
+
+216
+00:19:48,087 --> 00:19:52,094
+detail from them, it's a little
+disappointing. I mean, why even bother if
+
+217
+00:19:53,057 --> 00:19:57,103
+the Pareto Principle dictates that my
+'Zipf-ian' mind will consciously remember
+
+218
+00:19:58,003 --> 00:20:04,028
+pretty much only the titles and a few
+basic reactions years later
+
+219
+00:20:04,028 --> 00:20:08,126
+Ralph Waldo Emerson makes me feel better.
+He once said, "I cannot remember the books
+
+220
+00:20:09,026 --> 00:20:15,072
+I've read any more than the meals I have
+eaten. Even so, they have made me."
+
+221
+00:20:17,009 --> 00:20:18,968
+And as always,
+
+222
+00:20:19,049 --> 00:20:20,065
+thanks for watching.
+
