@@ -9,7 +9,7 @@ Interesting results:
 Total number of words:
 2774
 
-TOP-50 Words (not accounted for equal frequencis):
+TOP-50 Words (not accounted for equal frequencies):
 
 1. the - 141
 2. of - 101
